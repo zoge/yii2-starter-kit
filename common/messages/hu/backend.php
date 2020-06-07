@@ -160,7 +160,7 @@ return [
     'Sidebar legacy style' => '',
     'Sidebar small text' => '',
     'Sign In' => 'Belépés',
-    'Sign in to start your session' => 'Inditásoz lépj be',
+    'Sign in to start your session' => 'Inditáshoz lépj be',
     'Software' => '',
     'Sorry, application failed to collect information about your system. See {link}.' => '',
     'Static pages' => 'Statikus oldalak',
